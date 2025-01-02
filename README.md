@@ -1,4 +1,4 @@
 # arzmu
-Hi How You all
+Hi, Welcome at ArzMu
 <br>
-This is my learning steps in web dev
+This is a plateform to share about your medical illness and know more about health
